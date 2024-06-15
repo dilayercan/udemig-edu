@@ -14,3 +14,7 @@ Bu proje, HTML, CSS ve SCSS kullanılarak oluşturulmuş bir eğitim akademisi w
 - **HTML**: Web sayfalarının yapısını oluşturmak için.
 - **CSS**: Web sayfalarının stilini belirlemek için.
 - **SCSS**: Daha modüler ve bakımı kolay CSS yazmak için. SCSS, SASS'ın bir uzantısıdır ve değişkenler, iç içe geçmiş kurallar ve mixinler gibi gelişmiş özellikler sunar.
+
+## Ekran Görüntüsü
+
+![udemig](https://github.com/dilayercan/udemig-edu/assets/69506908/3f27a9b9-1e92-4bdb-bcee-3c0dec9384ff)
